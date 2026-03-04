@@ -37,7 +37,7 @@ Transactional dataset containing customer purchases, payment modes, and revenue 
 ---
 
 ## 📷 Dashboard Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a405ed1-ac5e-4747-8b5e-dcafb57443b2" />
+<img width="1920" height="1080" alt="Executive-insights" src="https://github.com/user-attachments/assets/9a02456d-4246-4c61-ba1d-0ad5a834a280" />
 <img width="1920" height="1080" alt="Customer-behaviour" src="https://github.com/user-attachments/assets/4d740621-b760-4cd9-bf45-b65be5269eac" />
 <img width="1920" height="1080" alt="Payment-Intelligence" src="https://github.com/user-attachments/assets/86bead26-b6f3-47a4-a94d-d6a633423268" />
 
